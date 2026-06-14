@@ -13,17 +13,18 @@
 <a href="https://linkedin.com/in/abhilash-puli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/abhilashpuli98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/sherlock_9886"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://abhilashpuli.medium.com/python-and-rest-apis-interacting-with-web-services-using-python-and-rest-apis-3227ce4cc119"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://medium.com/@abhilashpuli"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:abhilashpuli.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.hackerrank.com/profile/sherlockholmes93"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+
 </p>
 <p align="center">
 <!-- CREDENTIAL CHIP ROW -->
 <img src="https://img.shields.io/badge/YC%20W25-FF6600?style=flat-square&logo=ycombinator&logoColor=white" alt="YC W25" /> 
 <img src="https://img.shields.io/badge/LeetCode%20Top%2016%25%20Global-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Top 16%" /> 
 <img src="https://img.shields.io/badge/HackerRank%205★%20Python%20%7C%20C%20%7C%20PS-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank 5 Star" /> 
-<img src="https://img.shields.io/badge/B.Tech%20AI%26ML%20%E2%80%94%20CGPA%208.18-7C3AED?style=flat-square" alt="B.Tech AI&ML" /> 
-<img src="https://img.shields.io/badge/Stanford%20ML%20Specialization-B31B1B?style=flat-square" alt="Stanford ML" />
+  <img src="https://img.shields.io/badge/NPTEL%20Deep%20Learning-Silver%20Elite%20%7C%20Top%205%25%20Nationally-0EA5E9?style=flat-square&logoColor=white" alt="NPTEL Deep Learning" />
+<img src="https://img.shields.io/badge/Stanford%20Machine%20Learning%20Specialization-B31B1B?style=flat-square" alt="Stanford online - Machine Learning" />
 </p>
 <!-- ╔══════════════ SECTION 2: ENGINEERING MANIFESTO ══════════════╗ -->
 <p align="center">
