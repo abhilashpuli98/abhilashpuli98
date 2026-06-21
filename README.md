@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:1e293b&height=260&section=header&text=ABHILASH%20PULI&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%40%20Aden%20(YC%20W25)%20%7C%20DL%20Researcher%20%7C%20Competitive%20Programmer&descSize=16&descColor=38bdf8&descAlignY=62&animation=fadeIn" width="100%" alt="Abhilash Puli" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:1e293b&height=260&section=header&text=ABHILASH%20PULI&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%40%20Aden%20(YC%20W25)%20%7C%20Researcher%20%7C%20Competitive%20Programmer&descSize=16&descColor=38bdf8&descAlignY=62&animation=fadeIn" width="100%" alt="Abhilash Puli" />
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=130&lines=AI+Engineer+%40+Aden+%28YC+W25%29+%E2%80%A2+Multi-Agent+Systems;Implementing+Foundational+Research+Architectures+for+DeepLearning+Community;LeetCode+Top+16%25+Global+%E2%80%A2+1655%2B+Rating+%E2%80%A2+530%2B+Problems+Solved;Creator+of+Naxerion+AI+%26+the+Mentor+Agentic+Model" alt="Typing SVG" />
 <!-- SOCIAL COMMAND BAR -->
 <p align="center">
